@@ -65,10 +65,3 @@ console.log(FormatUtils.weiToEther('1000000000000000000')); // "1"
 You can include this directory in your project and import the utility classes as needed.
 
 ---
-
-This **README** provides a quick overview of the utility classes and methods available in the **`utils`** directory. Each utility class is designed to handle common tasks such as address formatting, BigInt arithmetic, number formatting, and input validation.
-
-```
-
----
-
