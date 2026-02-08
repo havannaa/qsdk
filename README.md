@@ -41,17 +41,6 @@ Contains the core modules for blockchain interaction.
    npm install
 ```
 
-## Usage Example
-
-```javascript
-const { Provider, RPCClient } = require('./src');
-
-const provider = new Provider('https://mainnet.quantova.io/');
-provider.getBlockNumber()
-  .then(blockNumber => console.log('Latest Block Number:', blockNumber))
-  .catch(error => console.error('Error:', error));
-```
-
 ## License
 
 MIT
