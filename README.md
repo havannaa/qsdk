@@ -37,9 +37,9 @@ Contains the core modules for blockchain interaction.
 
 2. Install dependencies:
 
-   ```bash
+```bash
    npm install
-   ```
+```
 
 ## Usage Example
 
