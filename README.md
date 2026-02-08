@@ -27,20 +27,6 @@ Contains the core modules for blockchain interaction.
 - **`wallet/`**: Wallet creation and management
 - **`network/`**: Network management (e.g., RPC URL configuration, proxy handling)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/qsdk.git
-   cd qsdk
-````
-
-2. Install dependencies:
-
-```bash
-   npm install
-```
-
 ## License
 
 MIT
